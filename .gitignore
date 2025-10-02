@@ -1,0 +1,29 @@
+# Ignore virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore VSCode / IDE files
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore large data files
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.zip
