@@ -53,4 +53,4 @@ By default, the script loads sample.pdf, indexes it, and allows you to ask quest
 
 ## License
 
-This project is open source (MIT). See License for details.
+This project is open source (MIT). See [LICENSE](LICENSE) for details.
