@@ -6,7 +6,7 @@ A simple Retrieval-QA pipeline that lets you query large PDFs (like textbooks or
 - Loads PDFs and segments text into structured documents
 - Creates embeddings using HuggingFace models
 - Stores embeddings in a local ChromaDB vector store
-- Uses Ollama (e.g., Gemma 3 1B) as the LLM backend
+- Uses Ollama (e.g., Gemma3:1B) as the LLM backend
 - Lets you ask natural language questions about the PDF
 
 ---
