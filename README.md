@@ -1,6 +1,6 @@
 # QnA Bot for PDFs
 
-A simple Retrieval-QA pipeline that lets you query large PDFs (like textbooks or research papers) using a local LLM (via [Ollama](https://ollama.ai/)) and vector search.
+A simple Retrieval-QA pipeline that lets you query reasonably sized PDFs (like textbook chapters or research papers) using a local LLM (via [Ollama](https://ollama.ai/)) and vector search.
 
 ## Features
 - Loads PDFs and segments text into structured documents
